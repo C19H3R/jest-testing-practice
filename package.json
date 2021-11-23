@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C19H3R/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C19H3R/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/C19H3R/jest-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.4",
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "jest": "^27.3.1"
+  }
+}
